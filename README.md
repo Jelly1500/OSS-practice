@@ -1,3 +1,3 @@
 # OSS-practice
 
-emojie{joy->:joy}
+1 p^3
